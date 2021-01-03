@@ -1,2 +1,2 @@
 # PIAIC_Assignments
-This Repo is made for uploading assignments of PIAIC.
+This repo is made for uploading assignments of PIAIC.
